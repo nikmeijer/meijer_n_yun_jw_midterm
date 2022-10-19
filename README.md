@@ -1,2 +1,21 @@
-# meijer_n_yun_jw_midterm
- midterm debate club
+# Debate Club
+
+Here we debate whether old cars or new cars are better.
+(The new cars win)
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## Credits
+
+Nikolai Meijer
+Jong Woog Yun
+
+## License
+
+MIT
